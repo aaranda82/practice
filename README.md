@@ -1,1 +1,1 @@
-Practice Repo for personal growth
+Practice Repo to learn new topics
